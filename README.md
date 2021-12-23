@@ -15,3 +15,9 @@ URL : https://github.com/luxuantao/huawei_nezha_practice<br>
 | 文本纠错 | 开放域对话(TODO) |
 | 句法分析 | 自动对联(TODO) |
 | 情感分析 |  |
+
+### 2.分词工具
+URL：https://github.com/XiaoMi/MiNLP
+该工具为小米实验室开发
+URL：https://link.zhihu.com/?target=https%3A//github.com/baidu/lac
+该分词工具为百度开发LAC
