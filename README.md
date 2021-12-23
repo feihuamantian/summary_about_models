@@ -21,3 +21,23 @@ URL：https://github.com/XiaoMi/MiNLP
 该工具为小米实验室开发
 URL：https://link.zhihu.com/?target=https%3A//github.com/baidu/lac
 该分词工具为百度开发LAC
+### 3.第三方库xmnlp
+URL:https://github.com/SeanLee97/xmnlp
+分词：seg
+并行分词：seg_parallel
+词性标注：tag
+并行词性标注：tag_parallel
+命名体识别：ner
+并行命名体识别：ner_parallel
+关键词提取：keyword
+并行关键词提取：keyword_parallel
+关键语句提取：keyphrase
+并行关键语句提取：keyphrase_parallel
+情感识别：sentiment
+并行情感识别：sentiment_parallel
+拼音提取：pinyin
+并行拼音提取：pinyin_parallel
+部首提取：radical
+并行部首提取：radical_parallel
+文本纠错：checker
+并行文本纠错：checker_parallel
